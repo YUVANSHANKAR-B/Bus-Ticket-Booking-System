@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bus-Ticket-Booking-System/static/css/main.41fdafcc.css",
+    "main.js": "/Bus-Ticket-Booking-System/static/js/main.b8413443.js",
+    "static/js/453.950c9674.chunk.js": "/Bus-Ticket-Booking-System/static/js/453.950c9674.chunk.js",
+    "index.html": "/Bus-Ticket-Booking-System/index.html",
+    "main.41fdafcc.css.map": "/Bus-Ticket-Booking-System/static/css/main.41fdafcc.css.map",
+    "main.b8413443.js.map": "/Bus-Ticket-Booking-System/static/js/main.b8413443.js.map",
+    "453.950c9674.chunk.js.map": "/Bus-Ticket-Booking-System/static/js/453.950c9674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41fdafcc.css",
+    "static/js/main.b8413443.js"
+  ]
+}
