@@ -21,7 +21,7 @@ function App() {
     <AuthProvider>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <Router>
+        <Router basename={process.env.PUBLIC_URL}>
           <Navbar />
           <Routes>
             <Route path="/" element={<Home />} />
